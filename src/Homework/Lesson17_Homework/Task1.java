@@ -10,13 +10,13 @@ public class Task1 {
                     break;
                 }
             }
-        }
-        else {
+        } else {
             result = false;
         }
         return result;
     }
 }
+
 class Task1Test {
     public static void main(String[] args) {
         StringBuilder sb3 = new StringBuilder("Hello");
