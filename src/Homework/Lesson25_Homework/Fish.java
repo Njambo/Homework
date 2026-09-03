@@ -1,4 +1,6 @@
-package Homework.Lesson24_Homework;
+package Homework.Lesson25_Homework;
+
+
 
 abstract class Fish extends Animal {
     Fish(String name) {
